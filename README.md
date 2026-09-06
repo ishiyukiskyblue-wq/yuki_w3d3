@@ -37,16 +37,16 @@
 ---
 
 <p align="center">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img src="https://img.shields.io/badge/github-%40YOUR_GITHUB_USERNAME-blue?style=flat&logo=github" />
+  <a href="https://github.com/yuki_w3d3">
+    <img src="https://img.shields.io/badge/github-%40yuki_w3d3-blue?style=flat&logo=github" />
   </a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME?tab=repositories">
+  <a href="https://github.com/yuki_w3d3?tab=repositories">
     <img src="https://img.shields.io/badge/repositories-view-blue?style=flat&logo=github" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=radical&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=yuki_w3d3&theme=radical&no-frame=true&row=1&column=6" />
 </p>
 
 ---
