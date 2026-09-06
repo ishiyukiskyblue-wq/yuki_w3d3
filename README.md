@@ -65,14 +65,14 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yuki_w3d3&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuki_w3d3&layout=compact&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ishiyukiskyblue-wq&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishiyukiskyblue-wq&layout=compact&theme=radical&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=yuki_w3d3&theme=radical&hide_border=true" width="70%" />
+  <img src="https://streak-stats.demolab.com/?user=ishiyukiskyblue-wq&theme=radical&hide_border=true" width="70%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yuki_w3d3&theme=react-dark&hide_border=true" width="90%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ishiyukiskyblue-wq&theme=react-dark&hide_border=true" width="90%" />
 </p>
