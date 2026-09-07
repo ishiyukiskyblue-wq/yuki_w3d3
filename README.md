@@ -61,7 +61,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <a href="https://github.com/ishiyukiskyblue-wq">
     <img src="https://img.shields.io/badge/GitHub-679fe4?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-f3dcfb?style=for-the-badge&logoColor=679fe4" />
