@@ -42,16 +42,16 @@
 ---
 
 <p align="center">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img src="https://img.shields.io/badge/github-%40YOUR_GITHUB_USERNAME-679fe4?style=flat&logo=github&logoColor=white" />
+  <a href="https://github.com/ishiyukiskyblue-wq">
+    <img src="https://img.shields.io/badge/github-%40ishiyukiskyblue-wq-679fe4?style=flat&logo=github&logoColor=white" />
   </a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME?tab=repositories">
+  <a href="https://github.com/ishiyukiskyblue-wq?tab=repositories">
     <img src="https://img.shields.io/badge/repositories-view-679fe4?style=flat&logo=github&logoColor=white" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=algolia&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ishiyukiskyblue-wq&theme=algolia&no-frame=true&row=1&column=6" />
 </p>
 
 ---
@@ -74,18 +74,18 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&count_private=true&title_color=679fe4&icon_color=679fe4&text_color=555555&bg_color=ffffff" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&title_color=679fe4&text_color=555555&bg_color=ffffff" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ishiyukiskyblue-wq&show_icons=true&hide_border=true&count_private=true&title_color=679fe4&icon_color=679fe4&text_color=555555&bg_color=ffffff" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishiyukiskyblue-wq&layout=compact&hide_border=true&title_color=679fe4&text_color=555555&bg_color=ffffff" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=YOUR_GITHUB_USERNAME&hide_border=true&background=ffffff&ring=679fe4&fire=679fe4&currStreakLabel=679fe4&sideLabels=555555&sideNums=555555&dates=999999&currStreakNum=679fe4" width="70%" />
+  <img src="https://streak-stats.demolab.com/?user=ishiyukiskyblue-wq&hide_border=true&background=ffffff&ring=679fe4&fire=679fe4&currStreakLabel=679fe4&sideLabels=555555&sideNums=555555&dates=999999&currStreakNum=679fe4" width="70%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&hide_border=true&bg_color=ffffff&color=679fe4&line=679fe4&point=f3dcfb&area=true&area_color=f3dcfb" width="90%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ishiyukiskyblue-wq&hide_border=true&bg_color=ffffff&color=679fe4&line=679fe4&point=f3dcfb&area=true&area_color=f3dcfb" width="90%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&hide_border=true&bg_color=ffffff&color=679fe4&line=679fe4&point=f3dcfb&area=true&area_color=f3dcfb" width="90%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ishiyukiskyblue-wq&hide_border=true&bg_color=ffffff&color=679fe4&line=679fe4&point=f3dcfb&area=true&area_color=f3dcfb" width="90%" />
 </p>
